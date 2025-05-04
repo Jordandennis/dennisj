@@ -1,0 +1,54 @@
+
+body {
+    background-color:darkslateblue;
+    color:cornsilk;
+}
+
+h1{
+    display: block;
+}
+
+.main_container{
+    margin: 0;
+    padding: 0;
+    height: 400 px;
+    width: 100 px;
+    background-image: linear-gradient(to right, gray, black);
+    background-color:aquamarine;
+}
+
+
+
+/* Nav bar styles */
+#nav_container{
+    top: 0px;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    background-color: beige;
+    background-image: linear-gradient(to bottom, rgb(113, 113, 245),rgb(150, 217, 248));
+    
+}
+
+
+#nav_list{
+    color: black;
+    float:left;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#dropdown_list{
+    list-style-type: none;
+    display: block;
+}
+
+.nav_list_item {
+    float: left;
+    marker: none;
+
+}
+
+
