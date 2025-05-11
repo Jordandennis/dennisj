@@ -8,14 +8,6 @@ h1{
     display: block;
 }
 
-.main_container{
-    margin: 0;
-    padding: 0;
-    height: 400 px;
-    width: 100 px;
-    background-image: linear-gradient(to right, gray, black);
-    background-color:aquamarine;
-}
 
 
 
