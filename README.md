@@ -1,8 +1,7 @@
-Hello!
+# Dennisj
 
-This is the source code for dennisj.ca, the personal/professional blog for Jordan Dennis!
+## Purpose
+Personal website built for showcasing work to prospective employers.
 
-The webiste itself is being hosted using an AWS EC2 instance running an NGINX server.
-
-May 1, 2025:
-    The website is currently non-operational. The current goal is too create a basic html/css/js website, containerize and push to the server.
+## Current State
+Currently, Dennisj is slated for development following the completion of `clearwaterpainting.ca`. Currently, the program is in very early development and was mostly done in the name of exploration. Last updated May 2026.
